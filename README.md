@@ -1,6 +1,7 @@
-## Hi there 👋
+Hello 👋
 
-<--**amandalaackmann/amandalaackmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**amandalaackmann/amandalaackmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🔍 With a background in logistics, administration, and client relations, I’ve spent years solving complex problems, keeping teams aligned, and making systems run more efficiently — whether coordinating schedules across departments or ensuring seamless communication in fast-paced environments.
 
