@@ -15,7 +15,8 @@ SQL • Python • Tableau • Excel • Data Visualization • Data Cleaning �
 🤝 Soft Skills:
 Communication • Interpersonal Skills • Conflict Resolution • Confidentiality • Team Building • Bilingual (Spanish)
 
-🌿 Outside of work, I’m most at home in nature — hiking, camping, and spending time outdoors recharge and ground me. I also love reading, practicing self-care, and exploring new ideas.
+🌿 🌿 Outside of work, I’m most at home in nature — hiking, camping, and spending time outdoors recharge and ground me. I also love reading, practicing self-care, and exploring new ideas.
+
 ----------
 🔭 I’m currently working on my final project in my TripleTen Business Intelligence Analytics Bootcamp
 🌱 I’m currently deciding on which book i'd like to read next.
