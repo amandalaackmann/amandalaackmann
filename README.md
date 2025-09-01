@@ -18,12 +18,15 @@ Communication • Interpersonal Skills • Conflict Resolution • Confidentiali
 🌿 Outside of work, I’m most at home in nature — hiking, camping, and spending time outdoors recharge and ground me. I also love reading, practicing self-care, and exploring new ideas.
 
 ----------
-🔭 I’m currently working on my final project in my TripleTen Business Intelligence Analytics Bootcamp
+🔭 I recently completed my final project in the TripleTen Business Intelligence Bootcamp: Zomato Restaurant Performance Analysis.  
 
-🌱 I’m currently deciding on which book i'd like to read next.
+🌱 I’m continuing to build skills in Python, SQL, Tableau, and Power BI while working on new BI portfolio projects.  
 
-🤔 I’m looking for help with continuous projects to gain more knowledge in the BIA field.
+🤔 I’m looking to collaborate on open-source, real-world BI projects or internships to apply my skills and gain industry experience.  
 
-💬 Ask me about living internationally for 12 years.
+💬 Ask me about my 12 years of international experience — it shaped how I solve problems and adapt to new environments.  
 
-📫 How to reach me: message me on Linkedin; linkedin.com/in/amandalaackmann
+📊 Explore my dashboards on Tableau Public → [tableau.com/profile/amanda.laackmann](https://public.tableau.com/app/profile/amanda.laackmann)  
+
+📫 How to reach me: message me on LinkedIn → [linkedin.com/in/amandalaackmann](https://www.linkedin.com/in/amandalaackmann)
+
